@@ -1,9 +1,11 @@
-# Sewa Mobil Bali — Landing Page Demo
+# Bagus Rental Bali — Premium Landing Page Demo
 
-Demo portofolio untuk koleksi website Bagusin. Halaman menggunakan satu file `index.html` dengan CSS dan JavaScript di dalamnya agar mudah dipelihara dari HP.
+Demo portofolio untuk koleksi website Bagusin dengan arah visual premium: identitas Bagus Rental, hero editorial, panel informasi mengambang, palet hijau gelap dan champagne, serta layout responsif. Seluruh halaman tetap dalam satu file `index.html` agar mudah dipelihara dari HP.
 
 ## Status
-- Desain landing page responsif: desktop dan mobile
+- Desain landing page premium responsif: desktop dan mobile
+- Identitas visual Bagus Rental dengan gaya editorial dan aksen champagne
+- Hero visual dengan kartu informasi overlay dan hirarki tipografi yang lebih kuat
 - Navigasi mobile
 - Filter kategori kendaraan
 - Formulir tanggal/lokasi/jenis layanan dengan validasi dan ringkasan simulasi
